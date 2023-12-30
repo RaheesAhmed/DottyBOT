@@ -1,4 +1,4 @@
-# Facebook Client
+# DottyBOT
 
 This is a Flask application that serves Virtual legal expert. It utilizes the OpenAI API to create a virtual assistant for legal expertise.
 
